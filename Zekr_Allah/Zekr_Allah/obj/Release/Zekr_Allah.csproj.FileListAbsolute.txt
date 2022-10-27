@@ -1,0 +1,15 @@
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\bin\Release\Zekr_Allah.exe.config
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\bin\Release\Zekr_Allah.exe
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\bin\Release\Zekr_Allah.pdb
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.csproj.AssemblyReference.cache
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.csproj.SuggestedBindingRedirects.cache
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.Form1.resources
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.Properties.Resources.resources
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.csproj.GenerateResource.cache
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.csproj.CoreCompileInputs.cache
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.exe
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.pdb
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\bin\Release\Zekr_Allah.exe.manifest
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\bin\Release\Zekr_Allah.application
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.exe.manifest
+D:\WORK FOLDER\11\Zekr_Allah\Zekr_Allah\obj\Release\Zekr_Allah.application
